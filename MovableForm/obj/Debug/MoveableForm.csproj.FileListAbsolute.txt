@@ -1,0 +1,6 @@
+C:\Users\theo\Desktop\ \MoveableForm\MoveableForm\obj\Debug\MoveableForm.csproj.AssemblyReference.cache
+C:\Users\theo\Desktop\ \MoveableForm\MoveableForm\obj\Debug\MoveableForm.csproj.CoreCompileInputs.cache
+C:\Users\theo\Desktop\ \MoveableForm\MoveableForm\bin\Debug\MoveableForm.dll
+C:\Users\theo\Desktop\ \MoveableForm\MoveableForm\bin\Debug\MoveableForm.pdb
+C:\Users\theo\Desktop\ \MoveableForm\MoveableForm\obj\Debug\MoveableForm.dll
+C:\Users\theo\Desktop\ \MoveableForm\MoveableForm\obj\Debug\MoveableForm.pdb
